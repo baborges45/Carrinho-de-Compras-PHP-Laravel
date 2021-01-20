@@ -25,3 +25,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Projeto 
+
+Um carrinho de compras feito em Laravel framework, para demonstrar o poder dessa ferramenta juntamente com a linguagem PHP.
+
+![Imagem1](https://github.com/baborges45/Carrinho-de-Compras-PHP-Laravel/blob/master/laravel1.png)
+![Imagem2](https://github.com/baborges45/Carrinho-de-Compras-PHP-Laravel/blob/master/laravel2.png)
+![Imagem3](https://github.com/baborges45/Carrinho-de-Compras-PHP-Laravel/blob/master/laravel3.png)
