@@ -32,4 +32,4 @@ Um carrinho de compras feito em Laravel framework, para demonstrar o poder dessa
 
 ![Imagem1](https://github.com/baborges45/Carrinho-de-Compras-PHP-Laravel/blob/master/laravel1.png)
 ![Imagem2](https://github.com/baborges45/Carrinho-de-Compras-PHP-Laravel/blob/master/laravel2.png)
-![Imagem3](https://github.com/baborges45/Carrinho-de-Compras-PHP-Laravel/blob/master/laravel3.png)
+
